@@ -411,16 +411,16 @@ function doDecrypt(pwd, onError) {
 
     
         <section class="laibili" id="comments">
+	<div id="lv-container" data-id="city" data-uid="MTAyMC8yODUwMi81MDcz">
+	</div>
 	<script type="text/javascript">
 		var isFirst = true;
 		var loadComment = function() {
 			var d = document,
 				s = d.createElement('script');
-			var e = d.getElementById('lv-container');
 			if(typeof LivereTower === 'function') { return; }
 			s.src = 'https://cdn-city.livere.com/js/embed.dist.js';
 			s.async = true;
-			e.setAttribute("data-uid", "MTAyMC8yODUwMi81MDcz");
 			if(isFirst) {
 				(d.head || d.body).appendChild(s);
 				isFirst = false;
@@ -430,8 +430,6 @@ function doDecrypt(pwd, onError) {
 	
     <script> loadComment(); </script>
 
-	<div id="lv-container" data-id="city">
-	</div>
 </section>
     
 
