@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[友人信T]]></title>
+      <url>http://blog.jianye.bid/2017/05/03/FriendMail-T/</url>
+      <content type="html"><![CDATA[<script src=/js/crypto-js.js></script><script>
+function doDecrypt(pwd, onError) {
+	var txt = document.getElementById("enc_content").innerHTML;
+	var plantext;
+	try {
+	  	var bytes = CryptoJS.AES.decrypt(txt, pwd);
+		plaintext = bytes.toString(CryptoJS.enc.Utf8);
+	} catch(err) {
+		if(onError) {onError(err);}
+		return;
+	}
+	document.getElementById("enc_content").innerHTML = plaintext;
+	document.getElementById("enc_content").style.display = "block";
+   document.getElementById("enc_passwd").style.display = "none";
+}
+</script>
+<div id="enc_content" style="display:none">U2FsdGVkX1/K+9EpQVpUbwJiztTQdZhsmjxdV/dM0Bc=</div><div id="enc_passwd"><p style="font-weight:500;">加密文章，请输入密码进行访问:</p> <input type="password" style="border-radius: 5px;border-style: groove;height: 30px;width: 50%;cursor: auto;font-size: 102%;color: currentColor;outline: none;text-overflow: initial;padding-left: 5px;" onkeydown="if (event.keyCode == 13) { decrypt(); return false;}"> <input type="submit" value="解&nbsp;密" onclick="decrypt()" style="width: 58px;height: 34px;border-radius: 5px;background-color: white;border-style: solid;color: currentColor;"><div id="enc_error" style="display: inline-block;color: #d84527;margin-left: 10px"></div><script>var onError = function(error) {	$("#enc_error")[0].innerHTML = "密码错误ε=ε=ε=(~￣▽￣)~"};function decrypt() {var passwd = $("#enc_passwd input")[0].value;doDecrypt(passwd, onError);}</script></div>]]></content>
+      
+        <categories>
+            
+            <category> 友人信 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 友人信T </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[友人信L]]></title>
+      <url>http://blog.jianye.bid/2017/05/03/FriendMail-L/</url>
+      <content type="html"><![CDATA[<script src=/js/crypto-js.js></script><script>
+function doDecrypt(pwd, onError) {
+	var txt = document.getElementById("enc_content").innerHTML;
+	var plantext;
+	try {
+	  	var bytes = CryptoJS.AES.decrypt(txt, pwd);
+		plaintext = bytes.toString(CryptoJS.enc.Utf8);
+	} catch(err) {
+		if(onError) {onError(err);}
+		return;
+	}
+	document.getElementById("enc_content").innerHTML = plaintext;
+	document.getElementById("enc_content").style.display = "block";
+   document.getElementById("enc_passwd").style.display = "none";
+}
+</script>
+<div id="enc_content" style="display:none">U2FsdGVkX19vfmh2V6pEiWSrsPuZ1dGgUG7mrjWHIzA=</div><div id="enc_passwd"><p style="font-weight:500;">加密文章，请输入密码进行访问:</p> <input type="password" style="border-radius: 5px;border-style: groove;height: 30px;width: 50%;cursor: auto;font-size: 102%;color: currentColor;outline: none;text-overflow: initial;padding-left: 5px;" onkeydown="if (event.keyCode == 13) { decrypt(); return false;}"> <input type="submit" value="解&nbsp;密" onclick="decrypt()" style="width: 58px;height: 34px;border-radius: 5px;background-color: white;border-style: solid;color: currentColor;"><div id="enc_error" style="display: inline-block;color: #d84527;margin-left: 10px"></div><script>var onError = function(error) {	$("#enc_error")[0].innerHTML = "密码错误ε=ε=ε=(~￣▽￣)~"};function decrypt() {var passwd = $("#enc_passwd input")[0].value;doDecrypt(passwd, onError);}</script></div>]]></content>
+      
+        <categories>
+            
+            <category> 友人信 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 友人信L </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[友人信X]]></title>
+      <url>http://blog.jianye.bid/2017/05/03/FriendMail-X/</url>
+      <content type="html"><![CDATA[<script src=/js/crypto-js.js></script><script>
+function doDecrypt(pwd, onError) {
+	var txt = document.getElementById("enc_content").innerHTML;
+	var plantext;
+	try {
+	  	var bytes = CryptoJS.AES.decrypt(txt, pwd);
+		plaintext = bytes.toString(CryptoJS.enc.Utf8);
+	} catch(err) {
+		if(onError) {onError(err);}
+		return;
+	}
+	document.getElementById("enc_content").innerHTML = plaintext;
+	document.getElementById("enc_content").style.display = "block";
+   document.getElementById("enc_passwd").style.display = "none";
+}
+</script>
+<div id="enc_content" style="display:none">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</div><div id="enc_passwd"><p style="font-weight:500;">加密文章，请输入密码进行访问:</p> <input type="password" style="border-radius: 5px;border-style: groove;height: 30px;width: 50%;cursor: auto;font-size: 102%;color: currentColor;outline: none;text-overflow: initial;padding-left: 5px;" onkeydown="if (event.keyCode == 13) { decrypt(); return false;}"> <input type="submit" value="解&nbsp;密" onclick="decrypt()" style="width: 58px;height: 34px;border-radius: 5px;background-color: white;border-style: solid;color: currentColor;"><div id="enc_error" style="display: inline-block;color: #d84527;margin-left: 10px"></div><script>var onError = function(error) {	$("#enc_error")[0].innerHTML = "密码错误ε=ε=ε=(~￣▽￣)~"};function decrypt() {var passwd = $("#enc_passwd input")[0].value;doDecrypt(passwd, onError);}</script></div>]]></content>
+      
+        <categories>
+            
+            <category> 友人信 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 友人信X </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[最近遇到的一件狗血的事情]]></title>
+      <url>http://blog.jianye.bid/2017/05/02/RecentlySituation/</url>
+      <content type="html"><![CDATA[<script src=/js/crypto-js.js></script><script>
+function doDecrypt(pwd, onError) {
+	var txt = document.getElementById("enc_content").innerHTML;
+	var plantext;
+	try {
+	  	var bytes = CryptoJS.AES.decrypt(txt, pwd);
+		plaintext = bytes.toString(CryptoJS.enc.Utf8);
+	} catch(err) {
+		if(onError) {onError(err);}
+		return;
+	}
+	document.getElementById("enc_content").innerHTML = plaintext;
+	document.getElementById("enc_content").style.display = "block";
+   document.getElementById("enc_passwd").style.display = "none";
+}
+</script>
+<div id="enc_content" style="display:none">U2FsdGVkX1/GN10+Thwsbz5IutT0Jy7QoDp99LoMhMM=</div><div id="enc_passwd"><p style="font-weight:500;">加密文章，请输入密码进行访问:</p> <input type="password" style="border-radius: 5px;border-style: groove;height: 30px;width: 50%;cursor: auto;font-size: 102%;color: currentColor;outline: none;text-overflow: initial;padding-left: 5px;" onkeydown="if (event.keyCode == 13) { decrypt(); return false;}"> <input type="submit" value="解&nbsp;密" onclick="decrypt()" style="width: 58px;height: 34px;border-radius: 5px;background-color: white;border-style: solid;color: currentColor;"><div id="enc_error" style="display: inline-block;color: #d84527;margin-left: 10px"></div><script>var onError = function(error) {	$("#enc_error")[0].innerHTML = "密码错误ε=ε=ε=(~￣▽￣)~"};function decrypt() {var passwd = $("#enc_passwd input")[0].value;doDecrypt(passwd, onError);}</script></div>]]></content>
+      
+        
+        <tags>
+            
+            <tag> Memory </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[17年5月记录]]></title>
+      <url>http://blog.jianye.bid/2017/05/02/MonthRecord-1705/</url>
+      <content type="html"><![CDATA[<p></p><h2 id="intro">前言</h2><strong>仅用来记录自己日常的吐槽和需要提醒的事情。</strong><br><p></p>
+<h2 id="5月3号"><a href="#5月3号" class="headerlink" title="5月3号"></a>5月3号</h2><h3 id="日常总结"><a href="#日常总结" class="headerlink" title="日常总结"></a>日常总结</h3><blockquote>
+<p>抱歉，很久没有来更新了。最近过的很迷糊，似乎已经迷失了方向。<br>换行ing<br>五月一假期，在阳新那边的火车站上，下火车的时候看到了文远，似乎有半年未见了，他也终于把心仪的那个妹子追到手了，五月一竟然跟他一起回老家了。<br>我没敢跟他打招呼，只是远远的走开了。难道只是为了少吃几口狗粮？？？<br>我觉得很多关系现在都已经淡了，我已经变得畏惧去保持着这些关系了。<br>也许只是我的心态问题吧。我很难再找到以前的对身边的所有朋友和事物保持着热情的心情了。<br>有时候消极点对待这个世界，让自己安静一会儿。<br>挺好的。</p>
+</blockquote>
+<h3 id="计划安排"><a href="#计划安排" class="headerlink" title="计划安排"></a>计划安排</h3><blockquote>
+<p>最近在忙学习毕业答辩的事情，很多事情都要来回往学习跑。<br>我都已经请假四五次了，这个星期剩下的两天索性我都懒得去了。<br>明天上午把毕业答辩需要用到的PPT做好，下午去老师那里演示系统。<br>希望周六可以顺利通过答辩。<br>安。</p>
+</blockquote>
+<h2 id="5月5号"><a href="#5月5号" class="headerlink" title="5月5号"></a>5月5号</h2><h3 id="日常总结-1"><a href="#日常总结-1" class="headerlink" title="日常总结"></a>日常总结</h3><blockquote>
+<p>有些关系在你不经意间就变得那么冷冰冰了。谁也不说不清错的到底是谁。<br>或许人际关系之间本来就是一种互相利用吧。<br>昨晚跟同学一起去网吧五连坐…赶毕业论文…今天上午也只睡了三个多小时，下午又赶过去给老师检查<br>晚上打印论文打了一百多张，我都有点佩服自己了，初稿竟然有56页。<br>然后当着老师的面模拟答辩了一下，事前做好了PPT，所以不是很紧张，希望明天在台上也可以这样。<br>但是我听说答辩组长会挂一批人去二辩，诶</p>
+</blockquote>
+<h3 id="计划安排-1"><a href="#计划安排-1" class="headerlink" title="计划安排"></a>计划安排</h3><blockquote>
+<p>明天早上七点要起来，赶到学校去把打印错误的几张重新打印一下，然后给老师签字。<br>七点五十分集合讲一些事情，八点半开始答辩。<br>希望好运。不要被二辩。<br>安。</p>
+</blockquote>
+<h2 id="5月7号"><a href="#5月7号" class="headerlink" title="5月7号"></a>5月7号</h2><h3 id="日常总结-2"><a href="#日常总结-2" class="headerlink" title="日常总结"></a>日常总结</h3><blockquote>
+<p>最近真的是一直都处于神经紧绷的状态，都没怎么睡好觉的。<br>人啊，真的不要太好心，对那些关系不怎么样的朋友，要永远有所保留，你并不知道别人以后会怎么对你。<br>嗯，还有，不要什么事情都揽下来，你会，你不会，又能如何呢？<br>关于毕业答辩的事情，昨天真的是很尴尬，果然靠不了别人的。<br>我上去之后简直是一问三不知啊，很无助的那种感觉，看来挂也是必然的。<br>下周三还要继续二辩，要是还是过不了，只能等明年了。</p>
+</blockquote>
+<h3 id="计划安排-2"><a href="#计划安排-2" class="headerlink" title="计划安排"></a>计划安排</h3><blockquote>
+<p>今天把论文修改好，摘要翻译要好好检查一下，什么百度翻译，有道翻译，全是垃圾好么。<br>好好看一下后台代码，PPT也得好好做，明天要去给黄老师演示一下。<br>下午我想自己做饭吃。冰箱里面的菜放了好久了啊。</p>
+</blockquote>
+]]></content>
+      
+        <categories>
+            
+            <category> 日常 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Hi </tag>
+            
+            <tag> 月记 </tag>
+            
+            <tag> 学习记录 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[英语面试回答]]></title>
+      <url>http://blog.jianye.bid/2017/04/24/EnglishInterview/</url>
+      <content type="html"><![CDATA[<h2 id="个人资料介绍"><a href="#个人资料介绍" class="headerlink" title="个人资料介绍"></a>个人资料介绍</h2><blockquote>
+<p>I：Where do you live？<br>A：I live at 238 Zhongshan Road，Apt 401，Nanjing.<br>I：What is your birthplace？<br>A：My birthplace is Suzhou.<br>I：Are you a resident of Shanghai？<br>A：No.<br>I：Where is your domicile place？<br>A：My domicile place is Nanjing.<br>I：Give me your telephone number，please.<br>A：（My telephone number is）3755818.</p>
+</blockquote>
+<h2 id="价值观的体现"><a href="#价值观的体现" class="headerlink" title="价值观的体现"></a>价值观的体现</h2><blockquote>
+<p>Q：What do you think you are worth to us？(你怎么认为你对我们有价值呢？)<br>A：I feel I can make some positive contributions to your company in the future. (我觉得我对贵公司能做些积极性的贡献。)<br>Q：What make you think you would be a success in this position？(你如何知道你能胜任这份工作？)<br>A：My training combined with my internship should qualify me for this particular job. I am sure I will be successful. (我在研究所的训练，加上实习工作，使我适合这份工作。我相信我能成功。)<br>Q: Do you work well under stress or pressure？(你能承受工作上的压力吗?)<br>A：Yes，I think so. The trait is needed in my current (or previous) position and I know I can  handle it well. (这种特点就是我目前(先前)工作所需要的，我知道我能应付自如。) </p>
+</blockquote>
+<h2 id="朋友的形容"><a href="#朋友的形容" class="headerlink" title="朋友的形容"></a>朋友的形容</h2><blockquote>
+<p>Q：How would your friends or colleagues describe you？(你的朋友或同事怎样形容你？)<br>A：(pause a few seconds) (稍等几秒钟再答，表示慎重考虑。)<br>They say Mr. Chen is an honest，hardworking and responsible man who deeply cares  for his family and friends. (他们说陈先生是位诚实、工作努力，负责任的人，他对家庭和朋友都很关心。)<br>A：They say Mr. Chen is a friendly，sensitive，caring and determined person. (他们说陈先生是位很友好、敏感、关心他人和有决心的人。)</p>
+</blockquote>
+<h2 id="大学生活的感悟"><a href="#大学生活的感悟" class="headerlink" title="大学生活的感悟"></a>大学生活的感悟</h2><blockquote>
+<p>Q：Is there anything you regret not having done at college？你在大学时有没有什么后悔没有做的事？<br>A：I devoted almost all my time to my studies, and laid a good, solid foundation of my major area, and that was good, I think. But I think probably it would have been better if I had gotten a little more involved in extracurricular activities.我把我几乎所有的时间都用到了学习上，因而在我专攻的领域打下了良好而扎实的基础，我认为那很 好。但是我想如果我多参加一些课外活动，或许会更好。<br>I spent so much time on club activities during the four years. However, I did not miss any of my classes. But I think my academic records would have been much better if I had put more time and energy into studying, looking back on it.<br>四年中我花了不少时间在社团活动上，然而我并没有误过一次课。但是回想起来，如果我在学习上多投注一些时间和精力，那我的在校成绩就会好得多。 </p>
+</blockquote>
+<h2 id="对老师的印象"><a href="#对老师的印象" class="headerlink" title="对老师的印象"></a>对老师的印象</h2><blockquote>
+<p>Q：Was there any teacher who impressed you very deeply during your student life？在你的学生生活当中，有没有什么老师给你很深刻的印象？<br>A：Yes. When I was a college student, our English professor left a deep impression on me. In class, he was responsible in teaching and very strict with us. But out of class, he treated us as his own sons and daughters. We all liked him very much.<br>有。当我读大学的时候，我们的英语教授给我留下了深刻的印象。在课堂上，他教学很负责，对我们学生要求很严格。不过在课后，他却把我们当成亲生儿女一样看待。我们大家都很喜欢他。 </p>
+</blockquote>
+<h2 id="目前工作的概述"><a href="#目前工作的概述" class="headerlink" title="目前工作的概述"></a>目前工作的概述</h2><blockquote>
+<p>Q：Give me a summary of your current  job description. (对你目前的工作，能否做个概括的说明。)<br>A：I have been working as a computer       programmer for five years. To be specific, I do system analysis, trouble   shooting and provide software  support. (我干了五年的电脑程序员。具体地说，我做系统分析，解决问题以及软件供应方面的支持。） </p>
+</blockquote>
+<h2 id="对公司的忠诚度"><a href="#对公司的忠诚度" class="headerlink" title="对公司的忠诚度"></a>对公司的忠诚度</h2><blockquote>
+<p>Q： How long would you like to stay with this company？(你会在本公司服务多久呢？)<br>A： I will stay as long as I can   continue   to learn and to grow in   my field. (只要我能在我的行业力继续学习和长进，我就会留在这里。)<br>Q： What personality traits do you admire？(你欣赏哪种性格的人？)<br>A： (I admire a person who is）honest, flexible and easy-going. (诚实、不死板而且容易相处的人。)<br>A： (I like) people who possess the  “can do” spirit. (有”实际行动”的人。) </p>
+</blockquote>
+<h2 id="如何处理人际关系"><a href="#如何处理人际关系" class="headerlink" title="如何处理人际关系"></a>如何处理人际关系</h2><blockquote>
+<p>Q:How do you handle your conflict with your colleagues in your work? (你如何处理与同事在工作中的意见不和？)<br>A:I will try to present my ideas in a  more    clear and civilized manner in order to get my points across. (我要以更清楚文明的方式，提出我的看法，使对方了解我的观点。)<br>Q：How do you handle your failure？(你怎样对待自己的失败？)<br>A： None of us was born “perfect”. I am      sure I will be given a second chance to    correct my mistake.  （我们大家生来都不是十全十美的，我相信我有第二个机会改正我的错误。） </p>
+</blockquote>
+<h2 id="首次见面的问好"><a href="#首次见面的问好" class="headerlink" title="首次见面的问好"></a>首次见面的问好</h2><blockquote>
+<p>A：Excuse me. May I see Mr. John       Watt，the manager？<br>I：It‘s me. What can I do for you？<br>A：I have come at your invitation for an interview.<br>　Nice to meet you，Mr. Watt.<br>I：Nice to meet you too. Please sit down.<br>A：Thank you，sir.<br>I：We have received your letter in answer to our advertisement.<br>I would like to talk with you regarding your qualifications for this position.<br>A：I am very happy that I am qualified for this interview.</p>
+</blockquote>
+<h2 id="明确来意"><a href="#明确来意" class="headerlink" title="明确来意"></a>明确来意</h2><blockquote>
+<p>I：May I help you？<br>A：Yes，I’m here for an interview as requested.<br>I：You are Miss Li？<br>A：That’s right.<br>I：Please take a seat.<br>A：Thank you，madam.<br>I：We have received your letter and resume，and we thought we would like to ask you to come here for an interview.<br>A：It is a great pleasure for me to have this opportunity for interview.<br>I：Have you brought your credentials？<br>A：Yes，here they are. This is my ID card. This is my diploma </p>
+</blockquote>
+<h2 id="自我介绍与评价"><a href="#自我介绍与评价" class="headerlink" title="自我介绍与评价"></a>自我介绍与评价</h2><blockquote>
+<p>I：Good afternoon. Sit down please.<br>A：Thank you.<br>I：Can you tell me what your full name is，please？<br>A：My full name is Yuming Liu.<br>I：Do you have an English name？<br>A：Yes，sir. It’s Walter. It was given by my English professor when I was at the university.<br>I：How do you like your name？<br>A：I like it very much. My name has become part of me. I don’t want to change it.<br>I：How old are you？<br>A：I‘m twenty-three（years old）。<br>I：What is your date of birth？<br>A：I was born on April eleventh，1986. </p>
+</blockquote>
+]]></content>
+      
+        <categories>
+            
+            <category> 职场经验 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 面试 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[JAVA常用单词]]></title>
+      <url>http://blog.jianye.bid/2017/04/24/javaWord/</url>
+      <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><blockquote>
+<p>API (Application Programming Interface) 应用编程接口<br>JRE (Java Runtime Environment) Java 运行时环境<br>JDK (Java Development Kit) Java开发工具包<br>JVM (Java Virtual Machine) Java虚拟机<br>JNI (Java Native Interface) Java本地接口<br>AWT (Abstract Windows Toolkit) 抽象窗口工具箱</p>
+</blockquote>
+<h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><blockquote>
+<p>JNDI (Java Naming &amp; Directory Interface) JAVA命名目录服务<br>JMS (Java Message Service) JAVA消息服务.<br>JTS (Java Transaction Service) JAVA事务服务<br>JAF (Java Action FrameWork) JAVA安全认证框架<br>RMI (Remote Method Interface) 远程方法调用<br>CVS (Concurrent Versions System) 版本控制系统</p>
+</blockquote>
+<h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><blockquote>
+<p>HTTP   (Hypertext Transfer Protocol) 超文本传输协议<br>FTP   (File Transfer Protocol)   文件传输协议<br>TCP/IP  (Transmission Control Protocol/Internet Protocol ) 传输控制协议和互联网协议<br>SMTP  (Simple Mail Transfer Protocol ) 简单邮件传输协议<br>LAN   (Local area network) 局域网<br>HTML (Hypertext Markup Language)超文本标记语言</p>
+</blockquote>
+<h2 id="4"><a href="#4" class="headerlink" title="4"></a>4</h2><blockquote>
+<p>URI（Uniform Resource Identifier）统一资源标识符<br>URL (Uniform Resource Locator)统一资源定位器，URI的一个子集<br>DBCP (Database connection Pools) 数据库连接池<br>SOAP (Simple Object Access Protocol)简单对象访问协议<br>SOA (Service Oriented Architecture) 面向服务的架构<br>WSDL (Web Service Description Language) 网络服务描述语言</p>
+</blockquote>
+<h2 id="5"><a href="#5" class="headerlink" title="5"></a>5</h2><blockquote>
+<p>UDDI (Universal Description , Discovery and Integration)可译为“通用描述、发现与集成服务”<br>DWR (Direct Web Remoting) java的远程web调用框架<br>JIT (just-in-time) 及时处理<br>Encapsulation[ in’kæpsju’leiʃən]封装<br>Inheritance [in’heritəns]继承<br>GUI （Graphical User Interface） 图形用户界面<br>JSA (Java Security Application Program Interface ) Java安全应用编程接口</p>
+</blockquote>
+<h2 id="6"><a href="#6" class="headerlink" title="6"></a>6</h2><blockquote>
+<p>Javac 编译命令<br>Javadoc 生成java文档命令<br>classpath 类路径<br>Version 版本<br>author 作者<br>Constructor 构造方法<br>Extends 继承<br>Base class 基类<br>Super class 超类<br>Protected 受保护的<br>Static 静态</p>
+</blockquote>
+<h2 id="7"><a href="#7" class="headerlink" title="7"></a>7</h2><blockquote>
+<p>Overloaded method 重载方法<br>Overridden method 重写方法<br>Abstract 抽象<br>Interface 接口<br>Implements interface 实现接口<br>Exception 意外，异常<br>Runtime Exception 运行时异常<br>Arithmetic [ə’riθmətik] Exception 算术异常<br>Illegal Argument Exception 非法数据异常<br>Array Index Out Of Bounds Exception 数组索引越界异常<br>Null Pointer Exception 空指针异常</p>
+</blockquote>
+<h2 id="8"><a href="#8" class="headerlink" title="8"></a>8</h2><blockquote>
+<p>Class Not Found Exception 类无法加载异常（类不能找到）<br>Number Format Exception 字符串到float类型转换异常（数字格式异常）<br>IOException 输入输出异常<br>File Not Found Exception 找不到文件异常<br>EOFException 文件结束异常<br>Interrupted Exception （线程）中断异常<br>Get Absolute Path 获取绝对路径 </p>
+</blockquote>
+<h2 id="9"><a href="#9" class="headerlink" title="9"></a>9</h2><blockquote>
+<p>get Message（） 获得错误消息<br>get Cause（） 获得异常原因<br>Space (空格)<br>Identifier (标识符)<br>String (字符串)<br>length （值）<br>equals (等于)<br>Ignore （忽略）<br>compare （比较）<br>sub （提取）<br>concat （连接）<br>replace （替换）</p>
+</blockquote>
+<h2 id="10"><a href="#10" class="headerlink" title="10"></a>10</h2><blockquote>
+<p>trim （整理）<br>Buffer (缓冲器)<br>reverse (颠倒)<br>delete （删除）<br>append （添加）<br>Interrupted （中断的）<br>toString 转换为字符串<br>SetTime 设置时间<br>Display 显示，展示<br>Calendar 日历<br>GetInstance 获得实例 </p>
+</blockquote>
+<h2 id="11"><a href="#11" class="headerlink" title="11"></a>11</h2><blockquote>
+<p>getTime 获得时间<br>Clear 扫除，清除<br>Clone 克隆，复制<br>Util 工具，龙套<br>Components 成分，组成<br>Random 随意，任意<br>Next Int 下一个整数<br>Gaussian [‘ɡausiən]高斯<br>ArrayList 队列<br>LinkedList 链表<br>exist 存在<br>isFile 是文件</p>
+</blockquote>
+<h2 id="12"><a href="#12" class="headerlink" title="12"></a>12</h2><blockquote>
+<p>isDirectory 是目录<br>getName 获取名字<br>getPath 获取路径<br>LastModified 最后修改日期<br>length 长度<br>InputStream 输入流<br>OutputStream 输出流<br>Unicode 统一的字符编码标准, 采用双字节对字符进行编码<br>Information 信息<br>FileInputStream 文件输入流<br>FileOutputStream文件输出流 </p>
+</blockquote>
+<h2 id="13"><a href="#13" class="headerlink" title="13"></a>13</h2><blockquote>
+<p>fileobject 文件对象<br>available 可获取的<br>read 读取<br>write 写<br>BufferedReader 缓冲区读取<br>FileReader 文本文件读取<br>BufferedWriter 缓冲区输出<br>FileWriter 文本文件写出<br>flush 清空<br>close 关闭<br>EOF 最后<br>encoding 编码 </p>
+</blockquote>
+<h2 id="14"><a href="#14" class="headerlink" title="14"></a>14</h2><blockquote>
+<p>Remote 远程<br>release 释放<br>JBuilder   Java 集成开发环境<br>Enterprise 企业版<br>Developer 开发版<br>Foundation 基础版<br>Messages 消息格<br>Structure 结构窗格<br>Project 工程<br>Files 文件<br>Source 源代码<br>Design 设计<br>History 历史</p>
+</blockquote>
+<h2 id="15"><a href="#15" class="headerlink" title="15"></a>15</h2><blockquote>
+<p>Doc 文档<br>File 文件<br>Edit 编辑<br>Search 查找<br>Refactor 要素<br>View 视图<br>Run 运行<br>Tools 工具<br>Window 窗口<br>Help 帮助<br>Vector 矢量<br>addElement 添加内容<br>Project Winzard 工程向导 </p>
+</blockquote>
+<h2 id="16"><a href="#16" class="headerlink" title="16"></a>16</h2><blockquote>
+<p>Step 步骤<br>Title 标题<br>Description 描述<br>Copyright 版权<br>Company 公司<br>Finish 完成<br>version 版本<br>Debug 调试<br>ErrorInsight 调试<br>JFrame 窗口框架<br>JPanel 面板</p>
+</blockquote>
+<h2 id="17"><a href="#17" class="headerlink" title="17"></a>17</h2><blockquote>
+<p>JScrollPane 滚动面板<br>Dimension 尺寸<br>Component 组件<br>Swing    JAVA轻量级组件<br>getContentPane 得到内容面板<br>LayoutManager 布局管理器<br>setVerticalScrollBarPolicy 设置垂直滚动条策略<br>VERTICAL_SCROLLEARAS_NEEDED 当内容太大面板出现滚动条<br>VERTICAL_SOROLLEARAS_ALWAYS 显示滚动条<br>VERTICAL_SOROLLEARAS_NEVER 不显示滚动条 </p>
+</blockquote>
+<h2 id="18"><a href="#18" class="headerlink" title="18"></a>18</h2><blockquote>
+<p>DataInputStream 二进制文件读取<br>DataOutputStream二进制文件写出<br>JLabel 标签<br>Icon    图标<br>image 图象<br>left左对齐<br>right 右对齐<br>JTextField 单行文本<br>getColumns 得到列数<br>setLayout 设置布局<br>BorderLayout 边框布局<br>center 居中对齐<br>JTextArea 多行文本 </p>
+</blockquote>
+<h2 id="19"><a href="#19" class="headerlink" title="19"></a>19</h2><blockquote>
+<p>setFont 设置字体<br>setHorizontalAlignment 设置文本水平对齐方式<br>setDefaultCloseOperation 设置默认的关闭操作<br>add 增加<br>JButton 按钮<br>JCheckBox 复选框<br>JRadioButton单选按钮<br>addItem 增加列表项<br>getItemAt 得到位置的列表项<br>getItemCount 得到列表项个数<br>setRolloverIcon 当鼠标经过的图标<br>setSelectedIcon 当选择按钮的图标</p>
+</blockquote>
+<h2 id="20"><a href="#20" class="headerlink" title="20"></a>20</h2><blockquote>
+<p>getSelectedItem 得到选择的列表项<br>getSelectedIndex 得到选择的索引<br>ActionListener 按钮监听<br>ActionEvent 按钮事件<br>actionPerformed 按钮单击方法<br>OOP (object oriented programming) 面向对象编程<br>ADO( ActiveX Data Object) ActiveX 数据对象<br>ALM (Application Lifecycle Management) 开发生命周期管理<br>ANSI (American National Standard Institute) 美国国家标准工会<br>AOP (Aspect Oriented Programming) 面向方面的程序设计</p>
+</blockquote>
+<h2 id="21"><a href="#21" class="headerlink" title="21"></a>21</h2><blockquote>
+<p>AI (Artificial Intelligence) 人工智能<br>AI (Action Item) 活动项<br>CGI (Common Gateway Interface) 公用网关接口<br>CLR (Common Language Runtime) 公共语言运行库<br>CMM (Capability Maturity Model) 成熟度模型<br>COM (Component Object Model) 组件对象模型<br>CORBA (Common Object Request Broker Architecture) 公共对象请求代理体系结构</p>
+</blockquote>
+<h2 id="22"><a href="#22" class="headerlink" title="22"></a>22</h2><blockquote>
+<p>CRM (Customer Relationship management) 客户关系管理<br>CSS (Cascading Style Sheet) 级联样式表<br>DAO (Data Access Object) 数据访问对象<br>case sensitive 区分大小写<br>character reference 字符引用<br>class completion 类自动生成<br>class factory 类工厂<br>client zero configuration 客户零配置<br>compact event handler 小型事件柄<br>critical software 重要软件<br>customize tag 自定义标记</p>
+</blockquote>
+<h2 id="23"><a href="#23" class="headerlink" title="23"></a>23</h2><blockquote>
+<p>DBA (DataBase Administrator) 系统管理员<br>DBDD (Data Base Design Description) 数据库设计描述<br>DCL (Data Control Language) 数据控制语言<br>DDL (Data Definition Language) 数据定义语言<br>DHTML (Dynamic HyperText Markup Language )动态超文本标记语言<br>DID (Data Item Description) 数据项描述<br>DII (Dynamic Invocation Interface) 动态调用接口<br>DLL (Dynamic-Link Library) 动态链接库<br>DML (Data Manipulation Language) 数据操纵语言</p>
+</blockquote>
+<h2 id="24"><a href="#24" class="headerlink" title="24"></a>24</h2><blockquote>
+<p>DNS (Digital Nervous System) 数字神经系统<br>DNA (Distributed internet Application Architecture) 分布式网络应用体系结构<br>DOM (Document Object Model) 文档对象模型<br>DS (Design Specification) 设计规范<br>DSI (Dynamic Skeleton Interface) 动态框架界面<br>DSO (Data Source Object) 数据来源对象<br>DSS (Decision Support Servers) 决策支持服务器<br>DSSSL (Document Style Semantics and Specification Language )文档样式语义和规范语言</p>
+</blockquote>
+<h2 id="25"><a href="#25" class="headerlink" title="25"></a>25</h2><blockquote>
+<p>DTC (Distributed Transaction Coordinator) 分布式事务协调器<br>DTD (Document Type Definition) 文档类型定义<br>DTS (Data Transformation Services) 数据转换服务<br>data consistency 数据一致性<br>data provider 数据提供者<br>data warehouse 数据库仓库<br>deployment descriptor 部署描述符<br>design level 设计层<br>differential backup 差异备份<br>disk array 磁盘阵列<br>drag and drop 拖放<br>dual interface 双重接口</p>
+</blockquote>
+<h2 id="26"><a href="#26" class="headerlink" title="26"></a>26</h2><blockquote>
+<p>EDI (Electronic Data Interchange) 电子商业文书交换标准<br>Session EJB     会话EJB<br>Entity EJB         实体EJB<br>Message Driven EJB  消息驱动EJB<br>BMP( Bean<em> Managed Persistence) 管理持久性<br>CMP (Container</em> Managed Persistence) 容器管理持久性<br>E-R图 (Entity-Relationship Approach) 实体-关系图<br>ERM (Employee Relationship Management) 员工关系管理</p>
+</blockquote>
+<h2 id="27"><a href="#27" class="headerlink" title="27"></a>27</h2><blockquote>
+<p>File group backup 文件组备份<br>full database backup 完全数据库备份<br>ID (Identification Number) 鉴别号<br>IDD (Interface Design Description) 接口设计描述<br>IDL (Interface Description Language) 接口描述语言<br>Polymorphism 多态<br>IL (Intermediate Language) 中间语言<br>interpreted language 解释语言</p>
+</blockquote>
+<h2 id="28"><a href="#28" class="headerlink" title="28"></a>28</h2><blockquote>
+<p>IDE (Integrated Development Environment) 集成开发环境<br>IIOP (Internet Inter Operability Protocol) 基于Internet的ORB间协议<br>IIS (Internet Information Server) 互联网信息服务器<br>IMC (Integrated Marketing Communication) 整合营销信息渠道<br>IRS (Interface Requirements Specification) 接口需求规格说明<br>ISAPI (Internet Server Application Programming Interface) 互联网服务器应用程序设计接口</p>
+</blockquote>
+<h2 id="29"><a href="#29" class="headerlink" title="29"></a>29</h2><blockquote>
+<p>ISP (Internet Service Provider) 互联网提供商<br>IS&amp;AC (Installation and Acceptance phase )安装与验收阶段<br>IT&amp;ST (Integrating and System Testing phase )组装与系统测试阶段<br>IV&amp;V (Independent Verification and Validation) 独立验证与确认<br>independent unit testing 独立的单元测试<br>information hiding 信息隐藏<br>integrated security 集成安全<br>iterative and incremental 迭代增量式</p>
+</blockquote>
+<h2 id="30"><a href="#30" class="headerlink" title="30"></a>30</h2><blockquote>
+<p>JAF （Java Activation Framework） Java启动框架<br>java IDL（java Interface Definition Language） java接口定义语言<br>java RMI （java Remote Method Invocation） java远程方法调用<br>JDBC （Java DataBase Connectivity） Java数据库连接<br>JIT （Just-In-Time） 实时<br>JMAPI （Java Management API） （Java管理应用编程接口）<br>JMS （Java Message Service） Java消息服务<br>JNDI （the Java Naming and Directory Interface） Java命名和目录接口</p>
+</blockquote>
+<h2 id="31"><a href="#31" class="headerlink" title="31"></a>31</h2><blockquote>
+<p>SPI（Service Provider Interface） 服务提供者接口<br>JPE （Java Platform for the Enterprise） 面向企业的java平台<br>JSDK （Java Servlet Development kit ）Java Servlet 开发工具包<br>JSP （Java Server Pages） Java服务器网页<br>JTS （Java Transaction Service） Java事务服务<br>JVM （Java Virtual Machine）  Java虚拟机<br>LDAP （Lightweight Directory Access Protocol） 轻量级目录存取服务协议<br>late binding 后期捆绑</p>
+</blockquote>
+<h2 id="32"><a href="#32" class="headerlink" title="32"></a>32</h2><blockquote>
+<p>location paths 位置路径<br>log reader agent 事务日志读取代理<br>MDI（Multiple document Interface） 多文档界面<br>MMC（ Microsoft Management Console） 微软控制台<br>MSMQ （Microsoft Message Queue Server） 消息队列服务<br>MTS （Microsoft Transaction Server） 事务处理服务器<br>management reviews 管理评审</p>
+</blockquote>
+<h2 id="33"><a href="#33" class="headerlink" title="33"></a>33</h2><blockquote>
+<p>middle ware 中间软件<br>mixed security 混合安全<br>multi-dimensional array 多维数组<br>Multi-Protocol Network Library 多协议网络库<br>multiple inheritance 多重继承<br>metrics management 度量管理<br>ODBC （Open Database Connectivity） 开放数据库互连<br>OLTP （Online Transaction Processing） 联机事务处理</p>
+</blockquote>
+<h2 id="34"><a href="#34" class="headerlink" title="34"></a>34</h2><blockquote>
+<p>CF (Common Facilities) 通用设施<br>AO (Application Objects) 应用对象<br>OMG (Object Management Group) 对象管理组织<br>OMT (Object Modeling Technique) 对象模型技术<br>OOA (Object Oriented Analysis) 面向对象分析<br>OOD (Object Oriented Design) 面向对象设计<br>OOP (Object Oriented Programming technique) 面向对象编程技术</p>
+</blockquote>
+<h2 id="35"><a href="#35" class="headerlink" title="35"></a>35</h2><blockquote>
+<p>Oracle Web Publishing Assistant Oracle Web 发布助手<br>ORB Object Request Broker  对象请求代理<br>Oracle Data Migration Assistant     Oracle 数据迁移助手<br>Oracle Database Assistant               Oracle 数据库助手<br>OMA （Object Management Architecture） 对象管理体系<br>OS （Object Service） 对象服务<br>merge replication 合并式复制</p>
+</blockquote>
+]]></content>
+      
+        <categories>
+            
+            <category> 术业专攻 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Java </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Oracle查询语句]]></title>
+      <url>http://blog.jianye.bid/2017/04/23/Oracle-select/</url>
+      <content type="html"><![CDATA[<h2 id="一般查询语句"><a href="#一般查询语句" class="headerlink" title="一般查询语句"></a>一般查询语句</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div></pre></td><td class="code"><pre><div class="line">--查询所有字段</div><div class="line">select * from products;</div><div class="line">--查询该表中有多少数据</div><div class="line">select count(*) from products;</div><div class="line">--查询该表中有多少数据，null值不算</div><div class="line">select count(quantityPerUnit) from products;</div><div class="line">--查询指定字段</div><div class="line">select productID,productName from products;</div><div class="line">--给列名起别名</div><div class="line">select productID 商品编号,productName 商品名称 from products;</div><div class="line">--别名中有空格</div><div class="line">select productID &quot;商品    编号&quot;,productName &quot;商品    名称&quot; from products;</div><div class="line">--去重</div><div class="line">select distinct(categoryID) from products;</div><div class="line">--字符串拼接</div><div class="line">select &apos;商品的名称是:&apos;||productName from products;</div><div class="line">--and与</div><div class="line">select * from products where unitPrice=18;</div><div class="line">select * from products where unitPrice=18 and supplierID=1;</div><div class="line">--or 或</div><div class="line">select * from products where unitPrice=18 or supplierID=1;</div><div class="line">--null</div><div class="line">select * from products where categoryID is null;</div><div class="line">--not null</div><div class="line">select * from products where categoryID is not null;</div><div class="line">--between</div><div class="line">select * from products where unitPrice between 6 and 10;</div><div class="line">--in</div><div class="line">select * from products where productID in(1,2,3,780);</div><div class="line">--排序 desc 倒序 asc 顺序</div><div class="line">select * from products order by unitPrice desc;</div><div class="line">select * from products order by unitPrice asc;</div><div class="line">--having 针对分组后的数据进行判断，where针对单行数据</div><div class="line">select categoryID,sum(unitPrice) from products group by categoryID having sum(unitPrice)&gt;200;</div></pre></td></tr></table></figure>
+<blockquote>
+<p>单行函数与多行函数<br>查询结果为一行的是单行函数<br>查询结果为多行的是多行函数</p>
+</blockquote>
+<h2 id="逻辑查询语句"><a href="#逻辑查询语句" class="headerlink" title="逻辑查询语句"></a>逻辑查询语句</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">-- &gt;大于</div><div class="line">select * from products where unitPrice&gt;18;</div><div class="line">-- &lt;小于</div><div class="line">select * from products where unitPrice&lt;18;</div><div class="line">-- &gt;=大于等于 </div><div class="line">select * from products where unitPrice&gt;=18;</div><div class="line">-- &lt;=小于等于</div><div class="line">select * from products where unitPrice&lt;=18;</div><div class="line">-- !=不等于</div><div class="line">select * from products where unitPrice!=18;</div><div class="line">-- &lt;&gt;不等于</div><div class="line">select * from products where unitPrice&lt;&gt;18;</div><div class="line">-- =等于</div><div class="line">select * from products where unitPrice=18;</div></pre></td></tr></table></figure>
+<h2 id="填充查询语句"><a href="#填充查询语句" class="headerlink" title="填充查询语句"></a>填充查询语句</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line">--设定填充后的长度为10，原内容为asdf，长度不够的部分，在左边填充*号</div><div class="line">select lpad(&apos;asdf&apos;,10,&apos;*&apos;) from dual;</div><div class="line">--设定填充后的长度为10，原内容为asdf，长度不够的部分，在右边填充*号</div><div class="line">select rpad(&apos;asdf&apos;,10,&apos;*&apos;) from dual;</div><div class="line">--concat 字符串拼接</div><div class="line">select concat(&apos;你的名字是&apos;,&apos;熊琪&apos;) from dual;</div><div class="line">--substr字符串的截取</div><div class="line">select substr(&apos;123456&apos;,2,3) from dual;</div><div class="line">--手机号的中间四位加密处理，截取前三位，后面加4个*号，拼接上后四位</div><div class="line">select rpad(substr(phone,1,3),7,&apos;*&apos;)||substr(phone,8,11) from myUser;</div></pre></td></tr></table></figure>
+<h2 id="数学运算语句"><a href="#数学运算语句" class="headerlink" title="数学运算语句"></a>数学运算语句</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line">--求字符串长度</div><div class="line">select length(&apos;asdf&apos;) from dual;</div><div class="line">--求字符在字符串中的位置</div><div class="line">select instr(&apos;asdfss&apos;,&apos;s&apos;) from dual;</div><div class="line">--四舍五入</div><div class="line">select round(2.456,1) from dual;</div><div class="line">--截断</div><div class="line">select trunc(2.456,2) from dual;</div><div class="line">--取余</div><div class="line">select mod(100,3) from dual;</div><div class="line">--求平均数</div><div class="line">select avg(unitPrice) from products;</div><div class="line">--求最大值</div><div class="line">select max(unitPrice) from products;</div><div class="line">--求最小值</div><div class="line">select min(unitPrice) from products;</div></pre></td></tr></table></figure>
+<h2 id="日期查询语句"><a href="#日期查询语句" class="headerlink" title="日期查询语句"></a>日期查询语句</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div></pre></td><td class="code"><pre><div class="line">--获取当前系统时间</div><div class="line">select sysdate from dual;</div><div class="line">--获取当前系统时间加一天后的时间</div><div class="line">select sysdate+1 from dual;</div><div class="line">--获取当前系统时间加一小时后的时间</div><div class="line">select sysdate+1/24/60/60 from dual;</div><div class="line">--计算两个时间差，单位为天</div><div class="line">select sysdate-to_date(&apos;2017-04-20&apos;,&apos;yyyy-mm-dd&apos;) from dual;</div><div class="line">--比较两个日期的月份差</div><div class="line">select months_between(sysdate,to_date(&apos;2017-03-15&apos;,&apos;yyyy-mm-dd&apos;))  from dual;</div><div class="line">--计算当前时间的若干月</div><div class="line">select add_months(sysdate,10) from dual;</div><div class="line">--计算当前星期的下一个星期的星期X</div><div class="line">select next_day(sysdate,2) from dual;</div><div class="line">--本月最后一天</div><div class="line">select last_day(sysdate) from dual;</div><div class="line">--日期的四舍五入,中午12点之后的进一天，12点之前的舍一天</div><div class="line">select round(sysdate) from dual;</div><div class="line">--截止到当日</div><div class="line">select trunc(sysdate) from dual;</div><div class="line">--获取到本年 第一天</div><div class="line">select trunc(sysdate,&apos;year&apos;) from dual; </div><div class="line">--获取到 本月 第一天 </div><div class="line">select trunc(sysdate,&apos;month&apos;) from dual; </div><div class="line">--获取到本季度 第一天</div><div class="line">select trunc(sysdate,&apos;q&apos;) from dual; </div><div class="line">--默认获取到日（当日的零点零分零秒）</div><div class="line">select to_char(trunc(sysdate),&apos;yyyy-mm-dd hh24:mi:ss&apos;) from dual; </div><div class="line">--本周一</div><div class="line">select trunc(sysdate,&apos;iw&apos;) from dual; </div><div class="line">-- 获取离当前时间最近的周四，若当天为周四则返回当天，否则返回上周四</div><div class="line">select trunc(sysdate,&apos;ww&apos;) from dual;  </div><div class="line">--获取到周（本周第一天，即上周日）</div><div class="line">select trunc(sysdate,&apos;day&apos;) from dual; </div><div class="line">--截取到小时（当前小时，零分零秒）</div><div class="line">select trunc(sysdate,&apos;hh24&apos;) from dual;  </div><div class="line">--截取到分（当前分，零秒）</div><div class="line">select trunc(sysdate,&apos;mi&apos;) from dual;</div></pre></td></tr></table></figure>
+<blockquote>
+<p>没有精确到秒的格式 select trunc(sysdate,’ss’) from dual ;会报错的</p>
+</blockquote>
+<h2 id="格式转换语句"><a href="#格式转换语句" class="headerlink" title="格式转换语句"></a>格式转换语句</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">--把获取到的日期变为字符串</div><div class="line">select to_char(sysdate,&apos;yyyy-mm-dd&apos;) from dual;</div><div class="line">--字符串转为数字</div><div class="line">select to_number(&apos;123&apos;) from dual;</div></pre></td></tr></table></figure>
+<h2 id="函数返回结果语句"><a href="#函数返回结果语句" class="headerlink" title="函数返回结果语句"></a>函数返回结果语句</h2><blockquote>
+<p>NVL(E1, E2)的功能为：如果E1为NULL，则函数返回E2，否则返回E1本身。<br>但此函数有一定局限，所以就有了NVL2函数。</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">--如果可以查询到商品规格，就返回商品规格，否则返回字符串‘该商品没有规格’</div><div class="line">select nvl(quantityPerUnit,&apos;该商品没有规格&apos;) from products;</div></pre></td></tr></table></figure>
+<h2 id="连接查询语句"><a href="#连接查询语句" class="headerlink" title="连接查询语句"></a>连接查询语句</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">--多表连接查询</div><div class="line">select * from products a,categories b where a.categoryID=b.categoryID;</div><div class="line">--左连接查询</div><div class="line">select * from products a left join categories b on a.categoryID=b.categoryID;</div><div class="line">--相当于左连接</div><div class="line">select * from products a,categories b where a.categoryid=b.categoryID(+);</div><div class="line">--右连接查询</div><div class="line">select * from categories b right join products a on a.categoryID=b.categoryID;</div><div class="line">--相当于右连接</div><div class="line">select * from products a,categories b where a.categoryid(+)=b.categoryID;</div><div class="line">--全连接查询</div><div class="line">select * from categories b full join products a on a.categoryID=b.categoryID;</div><div class="line">--将A表的所有行分别与B表的所有行进行连接，返回的记录数为两个表的记录数乘积</div><div class="line">select * from products a cross join categories b;</div></pre></td></tr></table></figure>
+]]></content>
+      
+        <categories>
+            
+            <category> 术业专攻 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Oracle </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Oracle常见指令]]></title>
+      <url>http://blog.jianye.bid/2017/04/23/Oracle/</url>
+      <content type="html"><![CDATA[<h2 id="常见的指令"><a href="#常见的指令" class="headerlink" title="常见的指令"></a>常见的指令</h2><h3 id="数据库操作指令"><a href="#数据库操作指令" class="headerlink" title="数据库操作指令"></a>数据库操作指令</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div></pre></td><td class="code"><pre><div class="line">--将scott用户解锁</div><div class="line">alter user scott account unlock;</div><div class="line">--创建一个表空间叫做sms</div><div class="line">create tablespace sms</div><div class="line">--该表空间的数据文件为d盘下的sms文件夹内的sms.dbf文件</div><div class="line">datafile &apos;D:/tablespaces/sms/sms.dbf&apos;</div><div class="line">--数据文件的初始大小为10M</div><div class="line">size 10m</div><div class="line">--当容量不够的时候扩容1M</div><div class="line">autoextend on next 1m</div><div class="line">--创建一个名称为sms的用户，密码为123456用来访问sms表空间</div><div class="line">create user sms identified by 123456 default tablespace sms</div><div class="line">--给sms用户数据库管理员权限用来创建表以及表的修改</div><div class="line">grant dba to sms</div><div class="line">--创建数据表</div><div class="line">create table student</div><div class="line">(</div><div class="line">sid number,</div><div class="line">sname varchar(20),</div><div class="line">sgender char(2),</div><div class="line">sage integer,</div><div class="line">sbirthday date</div><div class="line">);</div></pre></td></tr></table></figure>
+<h3 id="表操作指令"><a href="#表操作指令" class="headerlink" title="表操作指令"></a>表操作指令</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div></pre></td><td class="code"><pre><div class="line">--插入数据</div><div class="line">insert into student (sid,sname,sage) values(1,&apos;盖伦&apos;,24);</div><div class="line">--修改数据内容</div><div class="line">update student set sname=&apos;赵信&apos; where sid=1;</div><div class="line">--删除数据内容</div><div class="line">delete from student where sid=1;</div><div class="line">--删除所有数据</div><div class="line">delete from student;</div><div class="line">--清空student表(包括字段)</div><div class="line">truncate table student;</div><div class="line">--查询所有字段内容</div><div class="line">select * from student;</div><div class="line">--查询制定字段内容</div><div class="line">select sid, sname, sgender, sage, sbirthday from student;</div><div class="line">--更改表的名称</div><div class="line">rename student to students;</div><div class="line">--删除表</div><div class="line">drop table students;</div><div class="line">--修改列名</div><div class="line">alter table student rename column sbirthday to sday;</div><div class="line">--添加列</div><div class="line">alter table student add  cid number;</div><div class="line">alter table student add  temp number;</div><div class="line">--删除列</div><div class="line">alter table student drop column temp;</div><div class="line">--修改列类型</div><div class="line">alter table student modify sgender number;</div></pre></td></tr></table></figure>
+<h2 id="主外键的设置"><a href="#主外键的设置" class="headerlink" title="主外键的设置"></a>主外键的设置</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div></pre></td><td class="code"><pre><div class="line">--</div><div class="line">create table student</div><div class="line">(</div><div class="line">sid number,</div><div class="line">sname varchar(20),</div><div class="line">cid number</div><div class="line">);</div><div class="line">--</div><div class="line">create table clazz</div><div class="line">(</div><div class="line">cid number,</div><div class="line">cname varchar(20)</div><div class="line">);</div><div class="line">--</div><div class="line">--添加主键</div><div class="line">alter table student add constraint pk_student_sid primary key(sid);</div><div class="line">alter table clazz add constraint pk_clazz_cid primary key(cid);</div><div class="line">--添加外键</div><div class="line">alter table student add constraint fk_clazz_cid foreign key(cid) references clazz(cid);</div><div class="line">--添加外键，并设置级联删除</div><div class="line">alter table student add constraint fk_clazz_cid foreign key(cid) references clazz(cid) on delete cascade;</div><div class="line">--添加外键，并设置级联置空</div><div class="line">alter table student add constraint fk_clazz_cid foreign key(cid) references clazz(cid) on delete set null;</div><div class="line">--删除约束</div><div class="line">alter table student drop constraint fk_clazz_cid;</div><div class="line">--代码提交事务</div><div class="line">commit;</div></pre></td></tr></table></figure>
+<h2 id="约束的设置"><a href="#约束的设置" class="headerlink" title="约束的设置"></a>约束的设置</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">create table cons</div><div class="line">(</div><div class="line">cid number,</div><div class="line">cname varchar(20),</div><div class="line">cgender char(2)</div><div class="line">);</div><div class="line">--check约束</div><div class="line">alter table cons add constraint ck_cons_cname check (cgender in (&apos;男&apos;,&apos;女&apos;));</div><div class="line">--unique(唯一)约束</div><div class="line">alter table cons add constraint uk_cons_cname unique(cname);</div><div class="line">--非空约束</div><div class="line">alter table cons modify cname constraint not_null_cons_cname not null;</div><div class="line">--defaul(默认)约束</div><div class="line">alter table cons modify cgender char(2) default &apos;男&apos;;</div></pre></td></tr></table></figure>
+<h2 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h2><blockquote>
+<p>char<br>nchar<br>varchar<br>nvarchar2</p>
+<p>number 浮点型<br>数字类型都是number类型的子集<br>integer 整型  相当于number(38,0)<br>int 整型  相当于number(22,0)</p>
+</blockquote>
+<h2 id="语句定义"><a href="#语句定义" class="headerlink" title="语句定义"></a>语句定义</h2><blockquote>
+<p>增删改的语句为dml语言，即数据管理语句<br>查询语句select是dql,即数据查询语句<br>ddl,数据定义语句</p>
+</blockquote>
+]]></content>
+      
+        <categories>
+            
+            <category> 术业专攻 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Oracle </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[敬往事一杯酒，愿再也不回头]]></title>
+      <url>http://blog.jianye.bid/2017/04/18/Memoirs/</url>
+      <content type="html"><![CDATA[<script src=/js/crypto-js.js></script><script>
+function doDecrypt(pwd, onError) {
+	var txt = document.getElementById("enc_content").innerHTML;
+	var plantext;
+	try {
+	  	var bytes = CryptoJS.AES.decrypt(txt, pwd);
+		plaintext = bytes.toString(CryptoJS.enc.Utf8);
+	} catch(err) {
+		if(onError) {onError(err);}
+		return;
+	}
+	document.getElementById("enc_content").innerHTML = plaintext;
+	document.getElementById("enc_content").style.display = "block";
+   document.getElementById("enc_passwd").style.display = "none";
+}
+</script>
+<div id="enc_content" style="display:none">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</div><div id="enc_passwd"><p style="font-weight:500;">加密文章，请输入密码进行访问:</p> <input type="password" style="border-radius: 5px;border-style: groove;height: 30px;width: 50%;cursor: auto;font-size: 102%;color: currentColor;outline: none;text-overflow: initial;padding-left: 5px;" onkeydown="if (event.keyCode == 13) { decrypt(); return false;}"> <input type="submit" value="解&nbsp;密" onclick="decrypt()" style="width: 58px;height: 34px;border-radius: 5px;background-color: white;border-style: solid;color: currentColor;"><div id="enc_error" style="display: inline-block;color: #d84527;margin-left: 10px"></div><script>var onError = function(error) {	$("#enc_error")[0].innerHTML = "密码错误ε=ε=ε=(~￣▽￣)~"};function decrypt() {var passwd = $("#enc_passwd input")[0].value;doDecrypt(passwd, onError);}</script></div>]]></content>
+      
+        <categories>
+            
+            <category> 日常 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Hi </tag>
+            
+            <tag> Memory </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[17年4月记录]]></title>
+      <url>http://blog.jianye.bid/2017/04/06/MonthRecord-1704/</url>
+      <content type="html"><![CDATA[<a id="more"></a>
+<p><iframe frameborder="normal" border="0" marginwidth="0" marginheight="0" width="330" height="86" style="margin:0 auto" src="http://music.163.com/outchain/player?type=2&id=433018827&auto=1&height=66"></iframe></p>
+<p></p><h2 id="intro">前言</h2><strong>仅用来记录自己日常的吐槽和需要提醒的事情。</strong><br><p></p>
+<h2 id="4月6号"><a href="#4月6号" class="headerlink" title="4月6号"></a>4月6号</h2><h3 id="日常总结"><a href="#日常总结" class="headerlink" title="日常总结"></a>日常总结</h3><blockquote>
+<p>最近睡眠质量实在是太差，一天睡不到几个小时，感觉学习的时候都是迷糊的。<br>今天学了GUI图形界面编程，所幸的是还听得懂，前面几天完全处于一种懵逼的状态。<br>老师讲的太快，实在是接收不了，再加上我又比较懒。以至于现在中间还拉下了不少。<br>周末需要补一补了。<br>加油！</p>
+</blockquote>
+<h3 id="未解决的问题"><a href="#未解决的问题" class="headerlink" title="未解决的问题"></a>未解决的问题</h3><blockquote>
+<ul>
+<li>JFrame窗口1跳转到窗口2的时候，限制窗口2生成的个数<br>在窗口2已经显示的时候，点击按钮不再可以生成</li>
+<li>JFrame窗口1的Set私有字符串变变量无法传递，导致想在窗口2显示之前<br>通过窗口1的代码改变窗口2的按钮部件的Text的时候<br>传递的数据始终无法传递过去，进而导致判断失效。</li>
+<li>预解决日期：4月7号</li>
+</ul>
+</blockquote>
+<h2 id="4月7号"><a href="#4月7号" class="headerlink" title="4月7号"></a>4月7号</h2><h3 id="日常总结-1"><a href="#日常总结-1" class="headerlink" title="日常总结"></a>日常总结</h3><blockquote>
+<p>今天买的新手机到了，不过卡贴还没到，只好没有上手机卡就这样用着了。<br>话说今天中午看到一个饿了么外卖小哥，一边骑电动车，一边吃着煎饼。<br>每个人背后总有些辛酸无法言语。<br>明天去学校跟室友一起玩会游戏。好久没撸了。</p>
+</blockquote>
+<h3 id="周末计划"><a href="#周末计划" class="headerlink" title="周末计划"></a>周末计划</h3><blockquote>
+<p>项目立项书和设计书完成。周末要交。<br>整理东西，做好清洁。<br>去银行把银行卡的绑定手机号都改了。</p>
+</blockquote>
+<h2 id="4月10号"><a href="#4月10号" class="headerlink" title="4月10号"></a>4月10号</h2><h3 id="日常总结-2"><a href="#日常总结-2" class="headerlink" title="日常总结"></a>日常总结</h3><blockquote>
+<p>Sorry，前两天没有更新，星期六玩的有点嗨，星期天休息了一天。<br>这个周末不能再这样放纵自己了。<br>—–分割线—–<br>说真的，进入社会才会发现，你以前所见到的那些事跟现在所遇到的真的是没法比。<br>总有些自视清高的脑残，你所做的在他眼里总是显得那么微不足道或者看不上眼。<br>嗯，但是你不能跟他们计较，努力做好自己的，你来这里是来培训的不是跟人斗心思的。<br>学好了，还有他们什么屁事，滚蛋去吧~~~</p>
+</blockquote>
+<h3 id="学习进度"><a href="#学习进度" class="headerlink" title="学习进度"></a>学习进度</h3><blockquote>
+<p>开始做项目了，初步的UI界面已经完成了。<br>今天遇到很多尴尬的事情啊。之前学的date都已经忘干净了。这里再温习一下把。</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line">//创建一个时间对象</div><div class="line">Date date=new Date();</div><div class="line">//定义一个格式化的规则</div><div class="line">SimpleDateFormat sdf=new SimpleDateFormat(&quot;yyyy年MM月dd日 HH:mm:ss&quot;);</div><div class="line">//将时间对象按照规则进行格式化并且输出为字符串</div><div class="line">String time=sdf.format(date);</div><div class="line"></div><div class="line">String time2=&quot;2017年04月10日 20:00:00&quot;;</div><div class="line">//将格式化的字符串转化为时间对象</div><div class="line">sdf.parse(time2);</div></pre></td></tr></table></figure>
+<h2 id="4月12号"><a href="#4月12号" class="headerlink" title="4月12号"></a>4月12号</h2><h3 id="日常总结-3"><a href="#日常总结-3" class="headerlink" title="日常总结"></a>日常总结</h3><blockquote>
+<p>记忆力真是越来越差了，不久前看的东西转眼就忘了。<br>时间过得快些吧，我已经迫不及待的想进入社会了。<br>没事做的时候，总是喜欢回忆起一些以前的事情。<br>曾经那么喜欢的一个人，却无奈，还是被我给拉黑了。<br>要是我那时主动一点，或许现在真的有故事了。<br>只可惜现在已经成了陌路人了。要是我被一个人拉黑两次，我也不会再理他了的吧。</p>
+</blockquote>
+<h3 id="学习进度-1"><a href="#学习进度-1" class="headerlink" title="学习进度"></a>学习进度</h3><blockquote>
+<p>功能基本已经完善，还有收入报表和入住登记功能没有实现。<br>明天上午应该可以搞定。<br>然后下午把UI美化一下。</p>
+</blockquote>
+<h2 id="4月19号"><a href="#4月19号" class="headerlink" title="4月19号"></a>4月19号</h2><h3 id="日常总结-4"><a href="#日常总结-4" class="headerlink" title="日常总结"></a>日常总结</h3><blockquote>
+<p>睡觉的时候总是容易半夜醒，明明每天都很困，却很难睡着。</p>
+</blockquote>
+<h3 id="学习进度-2"><a href="#学习进度-2" class="headerlink" title="学习进度"></a>学习进度</h3><blockquote>
+<p>酒店管理系统软件做的差不多了，然后今天花了大概10分钟答辩。说实话，我挺紧张的，被班里一个学霸给怼了。显得我很没底气。</p>
+</blockquote>
+<h2 id="4月24号"><a href="#4月24号" class="headerlink" title="4月24号"></a>4月24号</h2><h3 id="日常总结-5"><a href="#日常总结-5" class="headerlink" title="日常总结"></a>日常总结</h3><blockquote>
+<p>今天晚上要写20篇实习日记，明天一大早赶到培训机构去盖章，然后又要跑回学校去交材料和实习手册。<br>最近特别想去做激光手术，等我找到了工作，赚了钱，第一件事一定是去干掉近视。<br>加密了一篇博客，可以写一些羞羞的东西了，哈哈哈哈哈哈哈哈哈~(ง •_•)ง</p>
+</blockquote>
+<h3 id="学习进度-3"><a href="#学习进度-3" class="headerlink" title="学习进度"></a>学习进度</h3><blockquote>
+<p>数据库学完了，明天开始跑JSP，可是明天上午还要去学校。我需要在下午上课之前赶回去。<br>不可以耽误学习进度。切记，不要去网吧！！！</p>
+</blockquote>
+<h2 id="4月25号"><a href="#4月25号" class="headerlink" title="4月25号"></a>4月25号</h2><h3 id="日常总结-6"><a href="#日常总结-6" class="headerlink" title="日常总结"></a>日常总结</h3><blockquote>
+<p>sorry，今天还是被同学拉到网吧去了。<br>一大早赶到培训机构，找了大半天的复印店，才把实习材料复印出来，然后等到9点多才盖好章子。<br>回到学校的时候还下雨了，没有带伞的我只好淋着回去。<br>可惜了，说好的今天集合有重要的事情说，结果什么都没有。<br>回来耽误了一天的课程，明天还不知道听不听得懂。只希望进度慢一点把。</p>
+</blockquote>
+<h3 id="学习进度-4"><a href="#学习进度-4" class="headerlink" title="学习进度"></a>学习进度</h3><blockquote>
+<p>今天懒惰了，没有学什么太多的东西，把陈赛的毕业设计做了一下，很赶啊，希望月底之前给他做出来把。<br>刘浩的毕业设计也没有做，我还得帮他完成了，瞬间感觉自己的责任重大啊。<br>先帮陈赛完成把，再帮刘浩做。</p>
+</blockquote>
+<h2 id="4月26号"><a href="#4月26号" class="headerlink" title="4月26号"></a>4月26号</h2><h3 id="日常总结-7"><a href="#日常总结-7" class="headerlink" title="日常总结"></a>日常总结</h3><blockquote>
+<p>最近学校的事情真的是太多了，培训机构和学校来回两头跑。<br>下个星期还要进行毕业答辩，然后又是体检，真是漫长的毕业季。<br>TAT 昨天坐公交，三方协议掉车上了。傻逼了我。明天又得去找辅导员。</p>
+</blockquote>
+<h3 id="学习进度-5"><a href="#学习进度-5" class="headerlink" title="学习进度"></a>学习进度</h3><blockquote>
+<p>昨天没有去听课，进度有点跟不上了，幸好今天下午不用上课。自己又好好温习了一下。<br>陈赛的毕业设计做了个大概的界面出来了。功能再慢慢添加上去把。</p>
+</blockquote>
+<h2 id="4月27号"><a href="#4月27号" class="headerlink" title="4月27号"></a>4月27号</h2><h3 id="日常总结-8"><a href="#日常总结-8" class="headerlink" title="日常总结"></a>日常总结</h3><blockquote>
+<p>今天下午又请假了，到学校去交东西。这个星期已经请了三次假了。<br>我的天，还不知道接下来跟不跟的上。</p>
+</blockquote>
+<h3 id="学习进度-6"><a href="#学习进度-6" class="headerlink" title="学习进度"></a>学习进度</h3><blockquote>
+<p>今天过的还算充实，把陈赛的项目做了大概四分之一。<br>还有两个BUG没有解决，明天去问下老师。</p>
+</blockquote>
+<h3 id="任务计划书"><a href="#任务计划书" class="headerlink" title="任务计划书"></a>任务计划书</h3><blockquote>
+<ul>
+<li>明天需要完成学生管理界面和课程管理界面以及班级管理界面。</li>
+<li>五月一期间把陈赛的项目做完。</li>
+<li>勉励！</li>
+</ul>
+</blockquote>
+]]></content>
+      
+        <categories>
+            
+            <category> 日常 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Hi </tag>
+            
+            <tag> 月记 </tag>
+            
+            <tag> 学习记录 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Java数组与集合]]></title>
+      <url>http://blog.jianye.bid/2017/03/29/JavaListAndSet/</url>
+      <content type="html"><![CDATA[<h2 id="数组与集合的区别"><a href="#数组与集合的区别" class="headerlink" title="数组与集合的区别"></a>数组与集合的区别</h2><blockquote>
+<p>数组特点：大小固定，只能存储相同数据类型的数据<br>集合特点：大小可动态扩展，可以存储各种类型的数据<br>若程序时不知道究竟需要多少对象，需要在空间不足时自动扩增容量，则需要使用容器类库，array不适用。<br><a id="more"></a></p>
+</blockquote>
+<h2 id="数组与集合的转换"><a href="#数组与集合的转换" class="headerlink" title="数组与集合的转换"></a>数组与集合的转换</h2><h3 id="数组转换为集合："><a href="#数组转换为集合：" class="headerlink" title="数组转换为集合："></a>数组转换为集合：</h3><p>Arrays.asList(数组)<br>示例：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">int[] arr = &#123;1,3,4,6,6&#125;;</div><div class="line">Arrays.asList(arr);</div><div class="line">for(int i=0;i&lt;arr.length;i++)&#123;</div><div class="line">    System.out.println(arr[i]);</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<h3 id="集合转换为数组："><a href="#集合转换为数组：" class="headerlink" title="集合转换为数组："></a>集合转换为数组：</h3><p>集合.toArray();<br>示例：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">List list = new ArrayList();</div><div class="line">list.add(&quot;a&quot;);</div><div class="line">list.add(&quot;b&quot;);</div><div class="line"> </div><div class="line">list.toArray();</div><div class="line">System.out.println(list.toString());</div></pre></td></tr></table></figure>
+<h2 id="体系的集合结构"><a href="#体系的集合结构" class="headerlink" title="体系的集合结构"></a>体系的集合结构</h2><blockquote>
+<p>List、Set、Map是这个集合体系中最主要的三个接口。<br>List和Set继承自Collection接口。 Map也属于集合系统，但和Collection接口不同。<br>Set不允许元素重复。HashSet和TreeSet是两个主要的实现类。<br>Set 只能通过游标来取值，并且值是不能重复的。List有序且允许元素重复。</p>
+</blockquote>
+<p>——分割线——-</p>
+<blockquote>
+<p>ArrayList、LinkedList和Vector是三个主要的实现类。 ArrayList 是线程不安全的， Vector 是线程安全的，这两个类底层都是由数组实现的 LinkedList 是线程不安全的，底层是由链表实现的<br>Map 是键值对集合。其中key列就是一个集合，key不能重复，但是value可以重复。<br>HashMap、TreeMap和Hashtable是Map的三个主要的实现类。<br>HashTable 是线程安全的，不能存储null值， HashMap 不是线程安全的，可以存储 null值<br>形式上无序，但是其实是按照键值的hashCode来排序的</p>
+</blockquote>
+<h2 id="ArrayList"><a href="#ArrayList" class="headerlink" title="ArrayList"></a>ArrayList</h2><h3 id="什么是ArrayList"><a href="#什么是ArrayList" class="headerlink" title="什么是ArrayList"></a>什么是ArrayList</h3><blockquote>
+<p>ArrayList就是传说中的动态数组，用MSDN中的说法，就是Array的复杂版本，它提供了如下一些好处：<br>1.动态的增加和减少元素<br>2.实现了ICollection和IList接口<br>3.灵活的设置数组的大小</p>
+</blockquote>
+<h3 id="如何使用ArrayList"><a href="#如何使用ArrayList" class="headerlink" title="如何使用ArrayList"></a>如何使用ArrayList</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line">ArrayList list = new ArrayList(); </div><div class="line">//给数组增加10个Int元素 </div><div class="line">for( int i=0;i &lt;10;i++ ) &#123;</div><div class="line">	List.Add(i); </div><div class="line">&#125;</div><div class="line">list.add(5);//在集合的后面添加元素5</div><div class="line">list.add(2,3);//在索引为2的地方，添加元素3，其后面的元素依次往后移动</div><div class="line">list.Remove(5);//将索引为5的元素移除 </div><div class="line">list.Remove(“aaa”);//将字符串aaa移除</div><div class="line">list.Remove(1,5);//从索引1开始，删除5个元素</div><div class="line">list.Insert</div><div class="line"></div><div class="line">//输出list里面所有的集合对象</div><div class="line">for (Object obj : List) &#123;</div><div class="line">	System.out.println(obj);</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<h2 id="LinkedList"><a href="#LinkedList" class="headerlink" title="LinkedList"></a>LinkedList</h2><h3 id="如何使用LinkedList"><a href="#如何使用LinkedList" class="headerlink" title="如何使用LinkedList"></a>如何使用LinkedList</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div></pre></td><td class="code"><pre><div class="line">List list = new LinkedList();</div><div class="line">//向链表里面添加“aa”</div><div class="line">list.add(&quot;aa&quot;);</div><div class="line">//向链表里面添加“bb”</div><div class="line">list.add(&quot;bb&quot;);</div><div class="line">//向链表索引为1的地方添加“cc”，与arraylist有所区别，链表不是依次向后移动，而是已经存在了前面的集合元素和后面的集合元素，只是把存在的元素放进来就可以了，操作效率更快</div><div class="line">list.add(1, &quot;cc&quot;);</div><div class="line">//返回aa在链表里面的索引</div><div class="line">System.out.println(list.indexOf(&quot;aa&quot;));</div><div class="line"></div><div class="line">//移出第一个并且取出它的值</div><div class="line">list.pop();</div><div class="line">//移出第一个，但是不取出它的值</div><div class="line">list.removeFirst();</div><div class="line">//不移出第一个，取出第一个的值</div><div class="line">list.peek();</div><div class="line">//向第一位添加元素</div><div class="line">list.addFirst(&quot;qq&quot;);</div><div class="line">//向最后一位添加元素</div><div class="line">list.addLast(&quot;ww&quot;);</div><div class="line"></div><div class="line">//遍历链表里面的内容</div><div class="line">for (Object obj : list) &#123;</div><div class="line">	System.out.println(obj);</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<h2 id="HashMap"><a href="#HashMap" class="headerlink" title="HashMap"></a>HashMap</h2><h2 id="TreeMap"><a href="#TreeMap" class="headerlink" title="TreeMap"></a>TreeMap</h2><h2 id="TreeSet"><a href="#TreeSet" class="headerlink" title="TreeSet"></a>TreeSet</h2><h2 id="HashSet"><a href="#HashSet" class="headerlink" title="HashSet"></a>HashSet</h2>]]></content>
+      
+        <categories>
+            
+            <category> 术业专攻 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Java </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[嗨喽，来自远方的人啊]]></title>
+      <url>http://blog.jianye.bid/2017/03/28/LetsBegin/</url>
+      <content type="html"><![CDATA[<p>欢迎来到我的小黑屋</p>
+<p><iframe frameborder="normal" border="0" marginwidth="0" marginheight="0" width="330" height="86" style="margin:0 auto" src="http://music.163.com/outchain/player?type=2&id=419877250&auto=1&height=66"></iframe><br><a id="more"></a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 日常 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Hi </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+    
+    <entry>
+      <title><![CDATA[404 Not Found：该页无法显示]]></title>
+      <url>http://blog.jianye.bid//404.html</url>
+      <content type="html"><![CDATA[<hr>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[关于我]]></title>
+      <url>http://blog.jianye.bid/about/index.html</url>
+      <content type="html"><![CDATA[<p>&emsp;&emsp;<strong>我无法得知以后的生活会如何，但只是希望以后不要讨厌现在的自己。</strong></p>
+<p></p><p style="float:right;font-weight:700;">——简夜，2017年5月7号</p><br><br><br><br>&emsp;&emsp;我们从小就在不停的被问，也是一个不停问自己的问题：你以后想做什么？<br><br>&emsp;&emsp;然而这个问题常常无解，因为想做的事情太多了，八岁时想做科学家，十八岁时想做黑客，二十岁时开始迷茫不知道自己想做什么，再长大一点忽然明白，我们以后想做的仅仅是一件事或者一种职业吗？<br><br>&emsp;&emsp;其实不一定，因为每个旅程都会有不同的想做的事，有些是长久的事，有些是短暂的事，而这些事组成了我们的人生。<br><p></p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[相册]]></title>
+      <url>http://blog.jianye.bid/photo/index.html</url>
+      <content type="html"><![CDATA[<h2 id="旅行开始"><a href="#旅行开始" class="headerlink" title="旅行开始"></a>旅行开始</h2><style>
+.body-wrap{
+max-width:100em;
+}
+
+</style>
+
+<div class="myphoto"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0009.jpg" alt="me"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0670.jpg" alt="me"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0686.jpg" alt="me"><br></div>
+
+<h2 id="西安"><a href="#西安" class="headerlink" title="西安"></a>西安</h2><div class="myphoto"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0703.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0704.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0705.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0707.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0710.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0711.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0712.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0713.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0714.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0715.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0716.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0717.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0718.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0719.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0720.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0721.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0722.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0725.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0726.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0727.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0728.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0729.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0736.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0744.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0749.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0750.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0752.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0753.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0754.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0755.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0756.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0757.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0758.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0759.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0760.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0762.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0763.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0765.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0780.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0781.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0782.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0783.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0784.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0785.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0786.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0787.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0788.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0789.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0791.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0792.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0793.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0794.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0795.jpg?imageslim" alt="西安"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0796.jpg?imageslim" alt="西安"><br></div>
+
+<h2 id="华山"><a href="#华山" class="headerlink" title="华山"></a>华山</h2><div class="myphoto"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0799.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0800.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0801.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0802.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0804.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0806.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0808.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0809.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0810.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0811.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0812.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0814.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0815.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0816.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0817.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0818.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0820.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0821.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0822.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0823.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0824.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0825.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0826.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0827.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0829.png?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0830.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0831.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0833.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0834.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0836.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0837.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0838.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0839.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0840.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0841.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0842.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0843.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0844.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0846.jpg?imageslim" alt="华山"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0847.jpg?imageslim" alt="华山"><br></div>
+
+<h2 id="重庆"><a href="#重庆" class="headerlink" title="重庆"></a>重庆</h2><div class="myphoto"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0858.jpg?imageslim" alt="山城"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0859.jpg?imageslim" alt="山城"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0860.jpg?imageslim" alt="山城"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0864.jpg?imageslim" alt="山城"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0865.jpg?imageslim" alt="山城"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0867.jpg?imageslim" alt="山城"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0868.jpg?imageslim" alt="山城"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0869.jpg?imageslim" alt="山城"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0870.jpg?imageslim" alt="山城"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0872.jpg?imageslim" alt="山城"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0882.jpg?imageslim" alt="山城"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0883.jpg?imageslim" alt="山城"><br></div>
+
+<h2 id="贵州马岭河大峡谷"><a href="#贵州马岭河大峡谷" class="headerlink" title="贵州马岭河大峡谷"></a>贵州马岭河大峡谷</h2><div class="myphoto"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0899.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0900.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0902.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0903.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0904.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0908.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0910.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0911.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0913.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0915.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0916.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0917.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0918.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0919.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0920.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0921.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0922.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0923.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0924.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0925.jpg?imageslim" alt="贵州马岭河大峡谷"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0935.jpg?imageslim" alt="贵州马岭河大峡谷"><br></div>
+
+<h2 id="大理"><a href="#大理" class="headerlink" title="大理"></a>大理</h2><div class="myphoto"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0953.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0971.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0972.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0973.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0974.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0976.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0977.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0978.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0980.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0981.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0982.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0983.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0984.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0985.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0986.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0988.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0989.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0990.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0993.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_0998.png?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1002.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1003.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1004.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1005.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1006.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1007.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1008.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1011.jpg?imageslim" alt="大理-我想生活的地方"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1013.jpg?imageslim" alt="大理-我想生活的地方"><br></div>
+
+<h2 id="丽江"><a href="#丽江" class="headerlink" title="丽江"></a>丽江</h2><div class="myphoto"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1032.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1033.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1037.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1038.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1039.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1040.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1043.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1044.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1045.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1047.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1048.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1049.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1051.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1052.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1060.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1061.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1064.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1065.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1066.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1069.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1071.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1072.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1073.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1074.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1075.jpg?imageslim" alt="丽江-艳遇之都"><br><img src="http://onom4m8zz.bkt.clouddn.com/IMG_1077.jpg?imageslim" alt="丽江-艳遇之都"><br></div>
+
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[分类&标签]]></title>
+      <url>http://blog.jianye.bid/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+  
+</search>
