@@ -1,7 +1,7 @@
 var ap1 = new APlayer({
 	element: document.getElementById('player1'),
 	narrow: false,
-	autoplay: true,
+	autoplay: false,
 	music: {
 		title: '彩虹',
 		author: '周杰伦',
