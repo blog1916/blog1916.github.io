@@ -5,7 +5,7 @@ var ap1 = new APlayer({
 	music: {
 		title: '彩虹',
 		author: '周杰伦',
-		url: 'http://onom4m8zz.bkt.clouddn.com/%E5%91%A8%E6%9D%B0%E4%BC%A6%20-%20%E5%BD%A9%E8%99%B9.mp3',
+		url: 'http://p2.music.126.net/sLKP3na0M4mdXocWFcVHlA==/3236962235602026.mp3',
 		pic: 'http://p1.music.126.net/0tWIPPsjYexJOvRqazMw6A==/60473139533046.jpg'
 	}
 });
